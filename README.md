@@ -1,5 +1,7 @@
 # Claude Code CLI — computer-use MCP Fix
 
+Computer-use not working on Mac - enable the terminal in accessability / screen sharing before attempting fix
+
 The computer-use MCP tools are advertised as available in Claude Code CLI (`/mcp` shows the server, tools appear in the deferred tool list), but every call fails with:
 
 ```
